@@ -6,5 +6,3 @@ class sahil:
 
 a=sahil()
 a.display()
-
-print("")
